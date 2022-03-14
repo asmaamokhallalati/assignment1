@@ -51,11 +51,7 @@ class MyWidget extends StatelessWidget{
             TextStyle(fontSize: 18,fontWeight:FontWeight.w400  ,color: Colors.grey[600] ),textDirection: TextDirection.rtl),
           ),
         )
-
-
       ]
-
-
       ),
 
     );

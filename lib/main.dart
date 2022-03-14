@@ -24,9 +24,9 @@ class MyApp extends StatelessWidget {
         TextStyle(fontSize: 20,fontWeight:FontWeight.w400  ,color: Colors.grey[800] )),
         MyWidget(label: 'الاسم',value: 'القدس',),
         MyWidget(label: 'المساحة',value: '125 كم',),
-        MyWidget(label: 'السكان ',value: '358000 نسمة',),
+        MyWidget(label: 'السكان',value: '358000 نسمة',),
         MyWidget(label: 'الدولة',value: 'فلسطين',),
-        MyWidget(label: 'اسم الطالب',value: 'أسماء مفيد المخللاتي',),
+        MyWidget(label: 'اسم الطالبة',value: 'أسماء مفيد المخللاتي',),
 
       ],),
     );
